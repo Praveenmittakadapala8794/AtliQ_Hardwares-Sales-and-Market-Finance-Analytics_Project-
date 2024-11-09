@@ -28,7 +28,7 @@ Unlocking insights from the dataset is crucial for AtliQ Hardwares to maximize s
 3. **[Market_Performance.pdf](https://github.com/Praveenmittakadapala8794/AtliQ_Hardwares-Sales-and-Market-Finance-Analytics_Project-/blob/master/Market_Performance.pdf)**: A comprehensive overview of market performance across various countries, comparing actual sales with targets for 2021.
 4. **[P&L Year Market.pdf](https://github.com/Praveenmittakadapala8794/AtliQ_Hardwares-Sales-and-Market-Finance-Analytics_Project-/blob/master/P%26L%20Year%20Market.pdf)**: Profit & Loss (P&L) analysis segmented by fiscal year, detailing net sales, COGS, gross margins, and percentage changes by country.
 5. **[P&L Year Report.pdf](https://github.com/Praveenmittakadapala8794/AtliQ_Hardwares-Sales-and-Market-Finance-Analytics_Project-/blob/master/P%26L%20Year%20Report.pdf)**: Summarizes P&L metrics for AtliQ Hardwares from 2019 to 2021, showing net sales, COGS, and gross margin trends.
-6. **P&L Months Sales.pdf**: Monthly P&L report with quarterly breakdowns for 2019-2021, highlighting monthly net sales, COGS, and gross margins for each fiscal month.
+6. **[P&L Months Sales.pdf](https://github.com/Praveenmittakadapala8794/AtliQ_Hardwares-Sales-and-Market-Finance-Analytics_Project-/blob/master/P%26L%20Months%20sales.pdf)**: Monthly P&L report with quarterly breakdowns for 2019-2021, highlighting monthly net sales, COGS, and gross margins for each fiscal month.
 
 ## 🌟 Project Highlights
 
