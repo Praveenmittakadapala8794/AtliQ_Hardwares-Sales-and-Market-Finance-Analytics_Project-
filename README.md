@@ -17,13 +17,13 @@ Unlocking insights from the dataset is crucial for AtliQ Hardwares to maximize s
 ## 📂 Data Sources
 
 ### CSV Files (in `data/`)
-1. **[dim_customer.csv](https://github.com/Praveenmittakadapala8794/AtliQ_Hardwares-Sales-and-Market-Finance-Analytics_Project-/blob/master/Customer_Performance.pdf)** - Contains information on customer demographics and classifications.
+1. **dim_customer.csv** - Contains information on customer demographics and classifications.
 2. **dim_market.csv** - Provides details on markets and divisions.
 3. **dim_product.csv** - Lists product details, including categories and specifications.
 4. **fact_sales_monthly.csv** - Monthly sales data across different regions, markets, and customer segments.
 
 ### PDF Reports (in `reports/`)
-1. **Customer_Performance.pdf**: A report on customer performance, with net sales metrics by customer for 2019-2021, showing substantial growth trends and comparisons.
+1. **[Customer_Performance.pdf](https://github.com/Praveenmittakadapala8794/AtliQ_Hardwares-Sales-and-Market-Finance-Analytics_Project-/blob/master/Customer_Performance.pdf)**: A report on customer performance, with net sales metrics by customer for 2019-2021, showing substantial growth trends and comparisons.
 2. **India_sales.pdf**: Focuses on sales performance in India, covering key customer metrics from 2019-2021.
 3. **Market_Performance.pdf**: A comprehensive overview of market performance across various countries, comparing actual sales with targets for 2021.
 4. **P&L Year Market.pdf**: Profit & Loss (P&L) analysis segmented by fiscal year, detailing net sales, COGS, gross margins, and percentage changes by country.
