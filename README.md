@@ -22,7 +22,7 @@ Unlocking insights from the dataset is crucial for AtliQ Hardwares to maximize s
 3. **dim_product.csv** - Lists product details, including categories and specifications.
 4. **fact_sales_monthly.csv** - Monthly sales data across different regions, markets, and customer segments.
 
-## 🗂 Entity Relationship Diagram (ERD) ![Entity Relationship Diagram (ERD)](sandbox:/mnt/data/ibvXpnxJmd2PmPwfLwTTc.png)
+## 🗂 Entity Relationship Diagram (ERD) ![image](https://github.com/user-attachments/assets/ff2d2538-0e74-4e54-bb27-3061e2804856)
 
 ### PDF Reports (in `reports/`)
 1. **[Customer_Performance.pdf](https://github.com/Praveenmittakadapala8794/AtliQ_Hardwares-Sales-and-Market-Finance-Analytics_Project-/blob/master/Customer_Performance.pdf)**: A report on customer performance, with net sales metrics by customer for 2019-2021, showing substantial growth trends and comparisons.
