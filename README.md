@@ -17,7 +17,7 @@ Unlocking insights from the dataset is crucial for AtliQ Hardwares to maximize s
 ## 📂 Data Sources
 
 ### CSV Files (in `data/`)
-1. **dim_customer.csv** - Contains information on customer demographics and classifications.
+1. **[dim_customer.csv](https://github.com/Praveenmittakadapala8794/AtliQ_Hardwares-Sales-and-Market-Finance-Analytics_Project-/blob/master/Customer_Performance.pdf)** - Contains information on customer demographics and classifications.
 2. **dim_market.csv** - Provides details on markets and divisions.
 3. **dim_product.csv** - Lists product details, including categories and specifications.
 4. **fact_sales_monthly.csv** - Monthly sales data across different regions, markets, and customer segments.
